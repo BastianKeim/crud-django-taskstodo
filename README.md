@@ -11,8 +11,11 @@ https://django-tasktodo.onrender.com/
 # What can I do ?
 
 • Create Tasks
+
 • Read Tasks
+
 • Update Tasks
+
 • Delete Tasks
 
 I think you figured out, yes, it is a CRUD web-app, so basically you can create, delete, edit and update the status of the tasks you have done in your day.
@@ -20,7 +23,10 @@ I think you figured out, yes, it is a CRUD web-app, so basically you can create,
 # Made with
 
 • Python 🐍
+
 • Django 🤠
+
 • MongoDB 🍃
+
 • gunicorn 🦄
 
